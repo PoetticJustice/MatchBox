@@ -5,3 +5,10 @@ For your assignment you are to develop a java class named MatchBox. Your class M
 For example a car class can inherit some properties from a General vehicle class. Here we find that the base class is the vehicle class and the subclass is the more specific car class. A subclass must use the extends clause to derive from a super class which must be written in the header of the subclass definition. The subclass inherits members of the superclass and hence promotes code reuse. The subclass itself can add its own new behavior and properties.
 
 Your new class must include a main method that creates a new MatchBox object, calls the getVolume method and reports the results by printing the following items to the screen (where the X is replaced by the calculated value) For your assignment, assume that the value of width is 5, height is 10, and the depth is 3. The output should look like the following with X replaced with the appropriate calculated value.
+
+
+width of MatchBox is X
+height of MatchBox is X
+depth of MatchBox is X
+weight of MatchBox is X
+Volume is: X
