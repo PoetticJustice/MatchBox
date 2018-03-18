@@ -1,3 +1,4 @@
+Instructions for submission 
 The following code is for a class named Box. The class Box includes a constructor method Box, and a method getVolume().
 
 For your assignment you are to develop a java class named MatchBox. Your class MatchBox must extend the class Box and in addition to the attributes width, height, and depth that are defined in the class Box, MatchBox must add a new attribute weight. The getVolume method must both report the values of width, height, depth, and weight, but must also calculate and report the volume by multiplying height by width by depth. The class MatchBox must also add the method calculateWeight() that will calculate weight based upon the volume assuming that the volume is a quantity of water which weighs .03611 pounds per cubic inch. Also method calculateWeight should show the result like this: weight of MatchBox is X.
